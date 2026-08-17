@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D candidate, City University of Hong Kong
 * M.S. in Physical Oceanography, Second Institute of Oceanography, MNR, 2025
 * B.S. in Atmospheric Sciences, Nanjing University of Information Science & Technology, 2022
   
